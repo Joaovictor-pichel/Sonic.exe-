@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: crimson;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 50%;
+    height: 75%;
+}
+#inicio{
+    bottom: 0;
+    background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+    display: table;
+    width: 100%;
+    height: 75%;
+    z-index: 9;
+}
+    #CREEPYPASTA{
+        background:linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+        width: 100%;
+        height: 50%;
+        display: table;
+        z-index: 9;
+    }
+    #sobre{
+        background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+        width: 100%;
+        height: 75%;
+        z-index: 9;
+    }
+    #FILME{
+        background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+        width: 100%;
+        height: 50%;
+        display: table;
+        z-index: 9;
+    }
+    #historia{
+        background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+        width: 100%;
+        height: 75%;
+        display: table;
+        z-index: 9;
+    }
+    #videos{
+        background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+        width: 100%;
+        height: 50%;
+        display: table;
+        z-index: 9;
+    }
+    .line {
+        height: 6px;
+        background-color: rgb(223, 31, 88);
+        width: 70px;
+        margin: 8px auto;
+    }
+#contatos{
+    background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+    width: 100%;
+    height: 50%;
+    display: table;
+    z-index: 9;
+}
+#games{
+    background: linear-gradient(rgb(223, 31, 88) 0%, rgb(0, 153, 255) 100%);
+    width: 100%;
+    height: 75%;
+    display: table;
+    z-index: 9;
+}
+.parallax-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+.myNavbar {
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+}
+.links:hover {
+    font-size: 25px;
+}
+#contatos iframe {
+    width: 100%;
+}
+.contatos_1 h2 {
+    display: inline;
+    padding-bottom:20px;
+}
+
